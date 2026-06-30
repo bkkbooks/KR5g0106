@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0106/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5g0106/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 洞玄靈寶五老攝召北酆鬼魔赤書玉訣
+  date: '2015-08-29 02:54:13.657570'
+  source:
+    repository: kanripo
+    path: KR5g0106
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0106_000-HFL.yaml, hash: 'sha256:dca871fc922ec17ce9f530d725ff4add6c71a5895c7f6c64191cc908396b54ac'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0106_000-HFL.markers.yaml, hash: 'sha256:59ba4b268cfc90a76d5f044223bc727eb2954637659476b067127425d9f0a562'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0106_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 2130
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:ee4b1c8b1dbc5bfb208300571258890f37d3fc06a56a2086134eb2769d8dc995
